@@ -1,0 +1,1 @@
+This repository contains a step-by-step implementation of Dynamical Mean-Field Theory (DMFT) applied to the Hubbard model, using the Iterated Perturbation Theory (IPT) and Hartree-Fock (HF) solver. The project is part of the course Computational Many-Body Theory at RWTH Aachen University. 
